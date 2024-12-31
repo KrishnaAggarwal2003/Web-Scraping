@@ -1,2 +1,4 @@
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. 
+
 # Web-Scraping
-This Repository contains codes for Web-Scraping with the help of LLM's for parsing the content.
+This repository contains codes for web scraping with the help of LLMs to parse the content.
